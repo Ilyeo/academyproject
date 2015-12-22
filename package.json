@@ -1,0 +1,11 @@
+{
+  "name": "rogelio-alatorre-my-blog",
+  "version": "1.0.0",
+  "description": "academia blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rogelio alatorre",
+  "license": "ISC"
+}
